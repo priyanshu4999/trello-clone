@@ -1,0 +1,12 @@
+html {
+  box-sizing: border-box;
+}
+
+*,*::before,*:after{
+  box-sizing: inherit;
+  background-color: gray;
+}
+
+html , body , root{
+  height: 100%;
+}
